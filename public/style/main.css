@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Kanit", sans-serif;
+  font-weight: 350;
+  font-style: normal;
+  text-decoration: none;
+  color: rgb(37, 37, 37);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("/public/img/img.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.present {
+  width: 480px;
+  background: transparent;
+  border: 2px solid azure;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 0 10px rgb(37, 37, 37);
+  color: azure;
+  padding: 30px 40px;
+  border-radius: 25px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.present.show {
+  opacity: 1;
+}
+
+.title {
+  font-size: 36px;
+  text-align: center;
+}
+
+.descripcion {
+  text-align: justify;
+}
+
+.botones {
+  margin-top: 30px;
+}
+.present .button {
+  background: #252525;
+  font-size: 15px;
+  width: 100%;
+  height: 45px;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  margin-top: 10px;
+}
+
+.button a {
+  color: azure;
+}
+.present .button:hover {
+  cursor: pointer;
+}
