@@ -15,8 +15,8 @@ const songs = [
       "https://github.com/fait-arch/fait-arch.github.io/raw/main/public/music/Avicii%20-%20The%20Nights%20(Lyrics).mp3",
   },
   {
-    title: "Pawn It All",
-    name: "Alicia Keys",
+    title: "From The Start",
+    name: "Good Kid",
     source: "public/music/Avicii - The Nights (Lyrics).mp3",
   },
   {
@@ -26,21 +26,21 @@ const songs = [
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Madrigal-Seni-Dert-Etmeler.mp3",
   },
   {
-    title: "Instant Crush",
-    name: "Daft Punk ft. Julian Casablancas",
+    title: "Mafuyu's Song",
+    name: "given",
     source:
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
   },
   {
-    title: "As It Was",
-    name: "Harry Styles",
+    title: "Traición",
+    name: "Miranda",
     source:
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
   },
 
   {
-    title: "Physical",
-    name: "Dua Lipa",
+    title: "por ella",
+    name: "Sabra dios",
     source:
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
   },
