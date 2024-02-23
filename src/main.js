@@ -9,10 +9,10 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Symphony",
-    name: "Clean Bandit ft. Zara Larsson",
+    title: "The Nights",
+    name: "Avicii",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Clean-Bandit-Symphony.mp3",
+      "https://github.com/fait-arch/fait-arch.github.io/blob/main/public/music/Avicii%20-%20The%20Nights%20(Lyrics).mp3",
   },
   {
     title: "Pawn It All",
