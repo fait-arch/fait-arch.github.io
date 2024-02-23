@@ -9,29 +9,34 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "The Nights",
+    title: "The Nights (Lyrics)",
     name: "Avicii",
-    source: "public/music/Avicii - The Nights (Lyrics).mp3",
+    source:
+      "https://github.com/fait-arch/fait-arch.github.io/raw/main/public/music/Avicii%20-%20The%20Nights%20(Lyrics).mp3",
   },
   {
     title: "From The Start",
     name: "Good Kid",
-    source: "public/music/From The Start - Good Kid (Sub Español).mp3",
+    source:
+      "https://github.com/fait-arch/fait-arch.github.io/raw/main/public/music/From%20The%20Start%20-%20Good%20Kid%20(Sub%20Espa%C3%B1ol).mp3",
   },
   {
-    title: "Mafuyu's Song",
-    name: "given",
-    source: "public/music/Mafuyus Song  given.mp3",
+    title: "Mafuyus Song",
+    name: "Given",
+    source:
+      "https://github.com/fait-arch/fait-arch.github.io/raw/main/public/music/Mafuyus%20Song%20%20given.mp3",
   },
   {
     title: "Por ella",
-    name: "Sabra dios",
-    source: "public/music/gufi - por ella  letra.mp3",
+    name: "Gufi",
+    source:
+      "https://github.com/fait-arch/fait-arch.github.io/raw/main/public/music/gufi%20-%20por%20ella%20%20letra.mp3",
   },
   {
-    title: "Traición",
+    title: "Traición✦",
     name: "Miranda",
-    source: "public/music/៹  ᳝ ࣪ 𝖫𝗨𝗖𝖪𝖨𝖳𝗬 ─ Traición ✦ Miranda!.mp3",
+    source:
+      "https://github.com/fait-arch/fait-arch.github.io/raw/main/public/music/%E1%9F%B9%20%20%E1%B3%9D%20%E0%A3%AA%20%F0%9D%96%AB%F0%9D%97%A8%F0%9D%97%96%F0%9D%96%AA%F0%9D%96%A8%F0%9D%96%B3%F0%9D%97%AC%20%E2%94%80%20Traici%C3%B3n%20%E2%9C%A6%20Miranda!.mp3",
   },
 ];
 
