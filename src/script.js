@@ -1,4 +1,3 @@
-
 onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
@@ -15,5 +14,8 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
   document.getElementById("buttonLink").addEventListener("click", function () {
     window.location.href = "public/template/flower.html";
+  });
+  document.getElementById("buttonLink2").addEventListener("click", function () {
+    window.location.href = "public/template/music.html";
   });
 });
