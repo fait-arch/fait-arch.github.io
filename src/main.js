@@ -11,44 +11,27 @@ const songs = [
   {
     title: "The Nights",
     name: "Avicii",
-    source:
-      "https://github.com/fait-arch/fait-arch.github.io/raw/main/public/music/Avicii%20-%20The%20Nights%20(Lyrics).mp3",
+    source: "public/music/Avicii - The Nights (Lyrics).mp3",
   },
   {
     title: "From The Start",
     name: "Good Kid",
-    source: "public/music/Avicii - The Nights (Lyrics).mp3",
-  },
-  {
-    title: "Seni Dert Etmeler",
-    name: "Madrigal",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Madrigal-Seni-Dert-Etmeler.mp3",
+    source: "public/music/From The Start - Good Kid (Sub Español).mp3",
   },
   {
     title: "Mafuyu's Song",
     name: "given",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
+    source: "public/music/Mafuyus Song  given.mp3",
+  },
+  {
+    title: "Por ella",
+    name: "Sabra dios",
+    source: "public/music/gufi - por ella  letra.mp3",
   },
   {
     title: "Traición",
     name: "Miranda",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
-  },
-
-  {
-    title: "por ella",
-    name: "Sabra dios",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
-  },
-  {
-    title: "Delicate",
-    name: "Taylor Swift",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+    source: "public/music/៹  ᳝ ࣪ 𝖫𝗨𝗖𝖪𝖨𝖳𝗬 ─ Traición ✦ Miranda!.mp3",
   },
 ];
 
