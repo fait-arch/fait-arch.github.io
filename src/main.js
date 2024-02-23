@@ -12,13 +12,12 @@ const songs = [
     title: "The Nights",
     name: "Avicii",
     source:
-      "https://github.com/fait-arch/fait-arch.github.io/blob/main/public/music/Avicii%20-%20The%20Nights%20(Lyrics).mp3",
+      "https://github.com/fait-arch/fait-arch.github.io/raw/main/public/music/Avicii%20-%20The%20Nights%20(Lyrics).mp3",
   },
   {
     title: "Pawn It All",
     name: "Alicia Keys",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Pawn-It-All.mp3",
+    source: "public/music/Avicii - The Nights (Lyrics).mp3",
   },
   {
     title: "Seni Dert Etmeler",
